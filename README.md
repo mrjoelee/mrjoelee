@@ -3,7 +3,7 @@
 
 🌱 Love learning something new everyday, specially in Coding! 
 
-⚡ Fun fact: I speak 3 languages, while I know only 1 (C#) in Coding, but that will change soon! 😄
+
 
 📫 How to reach me: https://www.linkedin.com/in/mrjoelee/
 <!--

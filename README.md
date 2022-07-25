@@ -5,6 +5,7 @@
 
 ⚡ Fun fact: I speak 3 languages, while I know only 1 (C#) in Coding, but that will change soon! 😄
 
+📫 How to reach me: https://www.linkedin.com/in/mrjoelee/
 <!--
 **mrjoelee/mrjoelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

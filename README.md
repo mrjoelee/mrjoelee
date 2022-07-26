@@ -1,11 +1,12 @@
 ### Welcome there! 👋
-🔭 I am a Veteran and an alumni of Microsoft Software and Systems Academy (MSSA) https://military.microsoft.com/programs/microsoft-software-systems-academy/
 
+## About Me
+🔭 I am a Veteran and an alumni of Microsoft Software and Systems Academy (MSSA) https://military.microsoft.com/programs/microsoft-software-systems-academy/
 🌱 Love learning something new everyday, specially in Coding! 
 
 
-
-📫 How to reach me: https://www.linkedin.com/in/mrjoelee/
+## How to reach me
+📫 https://www.linkedin.com/in/mrjoelee/
 <!--
 **mrjoelee/mrjoelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

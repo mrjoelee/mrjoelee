@@ -5,6 +5,10 @@
 
 🌱 Love learning something new everyday, specially in Coding! 
 
+## Ongoing projects
+
+1. [Creating a Web Api with ASP.Net Core(Quote API)](https://github.com/mrjoelee/QuoteApi)
+2. 
 
 ## How to reach me
 📫 https://www.linkedin.com/in/mrjoelee/

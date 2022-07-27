@@ -8,7 +8,7 @@
 ## Ongoing projects
 
 1. [Creating a Web Api with ASP.Net Core(Quote API)](https://github.com/mrjoelee/QuoteApi)
-2. 
+2. [Creating a Web Api with ASP.Net Core and MS SQL (Quote API)- On progress](https://github.com/mrjoelee/QuoteApiWithDb)
 
 ## How to reach me
 📫 https://www.linkedin.com/in/mrjoelee/

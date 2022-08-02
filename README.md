@@ -9,7 +9,7 @@
 
 1. [Creating a Web Api with ASP.Net Core(Quote API)](https://github.com/mrjoelee/QuoteApi)
 2. [Creating a Web Api with ASP.Net Core and MS SQL (Quote API)- will be updating utilizing IRepository](https://github.com/mrjoelee/QuotesApiWithDb)
-3. Studying for DP-900 Microsoft Azure Data Fundamentals Exam (taking it on 8/7) - Wish me good luck! 😄 
+3. [Got a free voucher, so studying for DP-900 Microsoft Azure Data Fundamentals Exam (taking it on 8/7) - Wish me good luck! 😄](https://docs.microsoft.com/en-us/certifications/exams/dp-900) 
 
 ## How to reach me
 📫 https://www.linkedin.com/in/mrjoelee/

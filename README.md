@@ -3,7 +3,7 @@
 ## About Me
 🔭 I am a Veteran and an alumni of Microsoft Software and Systems Academy (MSSA) https://military.microsoft.com/programs/microsoft-software-systems-academy/
 
-🌱 I’m currently a SDE Apprentice at Amazon. 
+🌱 I’m currently an SDE Apprentice at Amazon. 
 
 🌱 Love learning something new everyday, especially in Coding! 
 
